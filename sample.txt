@@ -1,0 +1,3 @@
+Welcome to Java File Handling Project
+This file demonstrates write operation.
+This line is appended later.
